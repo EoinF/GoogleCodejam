@@ -1,0 +1,16 @@
+{
+  "python.formatting.provider": "black",
+  "files.associations": {
+    "cassert": "cpp",
+    "algorithm": "cpp",
+    "xiosbase": "cpp",
+    "xlocale": "cpp",
+    "xmemory": "cpp",
+    "valarray": "cpp",
+    "variant": "cpp",
+    "vector": "cpp",
+    "ostream": "cpp",
+    "xstring": "cpp",
+    "iomanip": "cpp"
+  }
+}
